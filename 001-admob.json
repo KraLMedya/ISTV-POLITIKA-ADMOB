@@ -1,10 +1,10 @@
 {
   "is_test_mode": false,
-  "tum_reklamlar_aktif": false,
+  "tum_reklamlar_aktif": true,
   "acilis_reklami_aktif": true,
   "gecis_reklami_aktif": true,
   "dogal_reklam_aktif": true,
-  "banner_reklami_aktif": false,
+  "banner_reklami_aktif": true,
   "odullu_reklam_aktif": false,
   "arkaplan_donus_sayisi": 3,
   "gecis_reklam_tiklama_sayisi": 10,
